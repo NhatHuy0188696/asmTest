@@ -1,0 +1,43 @@
+.wrapper{
+    width: 400px;
+    height: 600px;
+    background-color: #fff;
+    border-radius: 22px;
+    margin-right: 40px;
+}
+.title{
+    padding: 126px 0 16px 0;
+}
+h3{
+text-align: center;
+margin: 12px 0;
+}
+.form-header{
+padding: 0 32px;
+}
+.show-password{
+    font-size: 1.3rem;
+    display: inline-block;
+    font-weight: 500;
+    margin-top: 4px;
+    display: inline-block;
+    margin-left: 8px;
+}
+.form-action{
+    display: flex;
+    align-items: center;
+   
+}
+.checkbox{
+    width: 16px;
+    height: 16px;
+}
+.btn-action{
+    margin-left: auto;
+
+    padding: 8px 34px;
+    border-radius: 8px;
+    border: none;
+    background-color: #2e09DB;
+    color: #fff;
+}
